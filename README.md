@@ -1,7 +1,7 @@
 # Portfolio_von_Jan
 [Jan Erish Baluca] Data Science Portfiolio
 
-### Supervised Learning + [COMING SOON] Data Preprocessing and Extreme Gradient Bossting Model Training Pipeline
+### 1. Supervised Learning + [COMING SOON] Data Preprocessing and Extreme Gradient Bossting Model Training Pipeline
 https://github.com/JanErish/Portfolio_von_Jan/blob/master/Credit%20Card%20Fraud%20Prediction%20%5BJan%20Erish%20Baluca%20%5D%2029-10-2017.ipynb
 
 #### Extreme Gradient Bossting Pipeline Preview:
@@ -31,7 +31,15 @@ The advantages of using the class are:
 * The end user will be able to calibrate the same specific configurations for all instances of the XGBoost_trainer with possibly one line, eliminating the need to calibate each one by one.
 * The trainer is built from the ground up with expert knowledge: best-practices and conventions in the industry.  
 
-### Unsupervised Learning and Hacker Statistics (can be used for A/B testing)
+### 2. Unsupervised Learning and Hacker Statistics (can be used for A/B testing)
 ##### Please view through NBViewer to see interactive and dynamic visualizations:
 ##### Click or Copy and paste the following link into your browser
 http://nbviewer.jupyter.org/gist/JanErish/3df9226e5ccac1cbecbed67ea677b725
+
+### Upcoming Pieces:
+
+* Credit Risk Modelling: Deep Learning and Neural Networks
+* Portfolio Analysis with Python and R
+* Network Analysis with Python
+* Equity Evaluation
+* Quantitative Risk Management
